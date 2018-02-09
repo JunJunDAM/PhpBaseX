@@ -27,3 +27,30 @@ and open the template in the editor.
 #td{
     border-width: 50px;
 }
+
+.nuevaTarea{
+    display: inline-block;
+    border-style: double;
+    border-color: blue;
+    background-color: seagreen;
+    width: 300px;
+    text-align: center;
+}
+
+.nuevoAlumno{
+    display: inline-block;
+    border-style: double;
+    border-color: blue;
+    background-color: seagreen;
+    width: 300px;
+    text-align: center;
+}
+
+.Examen{
+    display: inline-block;
+    border-style: double;
+    border-color: blue;
+    background-color: seagreen;
+    width: 300px;
+    text-align: center;
+}
