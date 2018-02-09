@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <!-- <link href="XXX.css" rel = "stylesheet" type = "text/css"/>-->
+        <link href="PhpBaseX.css" rel = "stylesheet" type = "text/css"/>
         <meta charset="UTF-8">
         <title></title>
     </head>
@@ -15,14 +15,14 @@ and open the template in the editor.
             <div class="nuevaTarea">
                 <a id = "nuevaTareaLink" href="NuevaTarea.php">Nueva Tarea</a>
             </div>
-            <div class="nuevoAlumno">
+            <div class="tareasPrioritarias">
                 <a id="nuevaTareaLink" href="tareasPrioritarias.php">Tareas Prioritarias</a>
             </div>
             <div class="Examen">
                 <a id="nuevaTareaLink" href="addExamen.php">Examen</a>
             </div>
         </div>
-        <div id="parteMedio">
+        <div id="medio">
             <div id="contenido">
                 <table id ="tabla">
                     <?php
